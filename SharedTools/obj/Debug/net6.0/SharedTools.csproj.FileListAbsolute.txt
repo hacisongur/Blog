@@ -1,0 +1,12 @@
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\bin\Debug\net6.0\SharedTools.deps.json
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\bin\Debug\net6.0\SharedTools.dll
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\bin\Debug\net6.0\SharedTools.pdb
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\SharedTools.csproj.AssemblyReference.cache
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\SharedTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\SharedTools.AssemblyInfoInputs.cache
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\SharedTools.AssemblyInfo.cs
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\SharedTools.csproj.CoreCompileInputs.cache
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\SharedTools.dll
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\refint\SharedTools.dll
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\SharedTools.pdb
+C:\Users\sahabt\Desktop\BlogAPI\SharedTools\obj\Debug\net6.0\ref\SharedTools.dll
